@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="022f85a3-38a7-4490-b54f-6c4961840ebf" name="Changes" comment="Finalised and commentend out code for front end and back end" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2YGI4R6QPg33pD8pBxyL36GdLV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/raivo/Desktop/Raivo's college/Project 2023/PC_Builder/PC_Builder_Back-end&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.PC_Builder.controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="022f85a3-38a7-4490-b54f-6c4961840ebf" name="Changes" comment="" />
+      <created>1700145299631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700145299631</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Uploaded PC builder project with implemented user authentication and login">
+      <created>1701612841199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701612841199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added &quot;components&quot; entity for PC builder component managament">
+      <created>1701808905153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701808905153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added ComponentRepository interface for database operations">
+      <created>1701813028242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701813028242</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implemented ComponentService with methods for component retrieval by type">
+      <created>1701814094001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701814094001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created ComponentController with endpoints for CRUD operations and fetching components by type.&#10;Added new methods in ComponentService for component management.">
+      <created>1701973385537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701973385537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created ComponentController with endpoints for CRUD operations and fetching components by type.&#10;Added new methods in ComponentService for component management.">
+      <created>1701973430660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701973430660</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Edited singup and sign in frontend to be more user friendly&#10;Added functions for user component selection in frontend , &#10;added some styling to front-end">
+      <created>1703097156462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703097156462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added PCBuild entity for user builds managament">
+      <created>1703098772508</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703098772508</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added PCBuild repo for database operations">
+      <created>1703099015618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703099015618</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added compatibility logic into backend,&#10;Added tech news API to frontend,&#10;Plenty of major changes in front end and back end.">
+      <created>1704373987838</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704373987838</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added a message into sign up component ,after user signs up&#10;added message to the projects components,when user havent built anything yet..">
+      <created>1704382034189</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704382034189</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Preparing for Heroku deployment">
+      <created>1704387620922</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704387620922</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Preparing for Heroku deployment">
+      <created>1704387635922</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704387635922</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finalised and commentend out code for front end and back end">
+      <created>1705265232381</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705265232381</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Uploaded PC builder project with implemented user authentication and login" />
+    <MESSAGE value="Added &quot;components&quot; entity for PC builder component managament" />
+    <MESSAGE value="Added ComponentRepository interface for database operations" />
+    <MESSAGE value="Implemented ComponentService with methods for component retrieval by type" />
+    <MESSAGE value="Created ComponentController with endpoints for CRUD operations and fetching components by type.&#10;Added new methods in ComponentService for component management." />
+    <MESSAGE value="Edited singup and sign in frontend to be more user friendly&#10;Added functions for user component selection in frontend , &#10;added some styling to front-end" />
+    <MESSAGE value="Added PCBuild entity for user builds managament" />
+    <MESSAGE value="Added PCBuild repo for database operations" />
+    <MESSAGE value="Added compatibility logic into backend,&#10;Added tech news API to frontend,&#10;Plenty of major changes in front end and back end." />
+    <MESSAGE value="Added a message into sign up component ,after user signs up&#10;added message to the projects components,when user havent built anything yet.." />
+    <MESSAGE value="Preparing for Heroku deployment" />
+    <MESSAGE value="Finalised and commentend out code for front end and back end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalised and commentend out code for front end and back end" />
+  </component>
+</project>
